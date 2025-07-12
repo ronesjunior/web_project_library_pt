@@ -139,6 +139,7 @@ p {
   list-style-type: none;
   padding-left: 0;
   max-width: 760px;
+  justify-content: center;
 }
 
 .card {
